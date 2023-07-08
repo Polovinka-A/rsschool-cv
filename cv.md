@@ -1,5 +1,5 @@
-# Alex Polovinka
-# Contact information:
+# Alex Polovinka 
+
 Phone: +375 25 9410762
 
 E-mail: q6h1.po@gmail.com
