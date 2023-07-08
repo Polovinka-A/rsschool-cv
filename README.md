@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://GITHUB-Polovinka-A.github.io/rsschool-cv/cv
+https://Polovinka-A.github.io/rsschool-cv/cv
