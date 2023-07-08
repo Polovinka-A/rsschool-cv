@@ -17,6 +17,7 @@ My big desireis to become an experienced developer
 5. a good team player
 6. diligent
 # Languages:
+
 Ukrainian - Native
 
 English  - Basic
