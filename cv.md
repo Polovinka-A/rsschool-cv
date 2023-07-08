@@ -7,8 +7,10 @@ E-mail: q6h1.po@gmail.com
 Telegram: @AleksPolovinka
 
 # Briefly about me:
+
 My name is  and I am a junior frontend developer. Just recently I decided to change sphere of my career and for this I chose IT. I am very diligent and not afraid of challenges and always ready to learn new. I like to work both in a team and alone. 
-My big desireis to become an experienced developer
+My big desireis to become an experienced developer.
+
 # My strengths:
 1. do not afraid of challenges
 2. have great desire to learn new
